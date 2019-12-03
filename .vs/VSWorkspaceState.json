@@ -3,8 +3,9 @@
     "",
     "\\css",
     "\\img",
-    "\\img\\FANWORK",
-    "\\img\\FANWORK\\ActualImage"
+    "\\img\\FANWORK\\ActualImage",
+    "\\img\\ILLUSTRATION",
+    "\\img\\ILLUSTRATION\\ActualImage"
   ],
   "SelectedNode": "\\img\\LogoBigNoBar.gif",
   "PreviewInSolutionExplorer": false
